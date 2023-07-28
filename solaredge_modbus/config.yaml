@@ -1,0 +1,11 @@
+name: "SolarEdge Modbus"
+description: "A custom platform component/sensor for reading SolarEdge Modbus TCP"
+version: "1.0.0"
+slug: "solaredge_modbus"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
